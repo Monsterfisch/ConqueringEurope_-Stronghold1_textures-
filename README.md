@@ -12,4 +12,3 @@ Credits go to:
 - Krarilotus for assisting with the publishing
 - Nevikov for the persuasion
 
-- ALL RIGHTS RESERVED
