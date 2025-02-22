@@ -11,3 +11,5 @@ Credits go to:
 - Heroesflorian for feedback and nörgeln
 - Krarilotus for assisting with the publishing
 - Nevikov for the persuasion
+
+- ALL RIGHTS RESERVED
